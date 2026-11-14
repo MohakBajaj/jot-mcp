@@ -1,0 +1,21 @@
+LICENSE
+  s_81115088ed856d::t_2203eeafc35b90 1-25
+assets/icon.svg
+  s_81115088ed856d::t_7dbd91c57492d2 1-113
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a7b889b80fc23d0154dda341ad1e7d27595ac9b3",
+  "prompts": {},
+  "sessions": {
+    "s_81115088ed856d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3c2c1d16-f4bf-4d64-b3fa-155a6dd74a4a",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Mohak Bajaj <bmohak87@gmail.com>"
+    }
+  }
+}
